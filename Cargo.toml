@@ -1,0 +1,12 @@
+[package]
+name = "jsonrpc-demo"
+version = "0.1.0"
+authors = ["Kazuaki Ishiguro <kazuaki@couger.co.jp>"]
+
+[dependencies]
+jsonrpc-core={ git = "https://github.com/paritytech/jsonrpc.git" }
+jsonrpc-http-server={ git = "https://github.com/paritytech/jsonrpc.git" }
+jsonrpc-macros={ git = "https://github.com/paritytech/jsonrpc.git" }
+jsonrpc-pubsub={ git = "https://github.com/paritytech/jsonrpc.git" }
+jsonrpc-tcp-server={ git = "https://github.com/paritytech/jsonrpc.git" }
+

@@ -1,0 +1,8 @@
+{
+  "name": "jsonrpc-demo",
+  "version": "1.0.0",
+  "description": "this is a smiple(est) example of jsonrpc network demo",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
