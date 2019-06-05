@@ -12,5 +12,5 @@ cargo build --release
 ## test
 ```bash
 ./target/release/jsonrpc-demo 
-node test.js // {"jsonrpc":"2.0","result":12,"id":1}
+node test.js // => {"jsonrpc":"2.0","result":12,"id":1}
 ```
